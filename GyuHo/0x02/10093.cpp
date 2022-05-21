@@ -1,5 +1,3 @@
-32 lines (25 sloc)  529 Bytes
-   
 //10093번 숫자
 
 #include<bits/stdc++.h>

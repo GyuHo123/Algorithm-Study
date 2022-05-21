@@ -28,7 +28,7 @@
 
 C++ : GyuHo123
 
-JAVA : @HyeSunJeong, @jk9169, @Guspect
+JAVA : HyeSunJeong, jk9169, Guspect
 
-Python : @Haneugyu, @Yonghan Jung, @doDOHY25N, @SungMin
+Python : Haneugyu, Yonghan Jung, doDOHY25N, SungMin
 

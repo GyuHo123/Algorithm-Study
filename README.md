@@ -26,9 +26,9 @@
 
 ## 사용언어
 
-C++ : GyuHo123
+C++ : GyuHo123,  HyeSunJeong, LeeJungHwi
 
-JAVA : HyeSunJeong, jk9169, Guspect
+JAVA :jk9169, Guspect
 
 Python : Haneugyu, Yonghan Jung, doDOHY25N, SungMin
 

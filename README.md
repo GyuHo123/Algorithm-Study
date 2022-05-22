@@ -8,6 +8,9 @@
 
 배우는 입장인 학부생인만큼 코드를 보시고 아낌없는 **조언** 부탁드리겠습니다.
 
+
+감사합니다.
+
 ## 일정
 
 05/16-05/21  0x00-0x02 강의 보기, 0x02 문제집 풀기
@@ -21,5 +24,11 @@
 
 06/21-06/28  0x04(연결 리스트) 강의 보기, 0x04 문제집 풀기
 
+## 사용언어
 
-감사합니다!
+C++ : GyuHo123,  HyeSunJeong, LeeJungHwi
+
+JAVA :jk9169, Guspect
+
+Python : Haneugyu, Yonghan Jung, doDOHY25N, SungMin
+

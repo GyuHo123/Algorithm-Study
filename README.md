@@ -13,22 +13,13 @@
 
 ## 일정
 
-05/16-05/21  0x00-0x02 강의 보기, 0x02 문제집 풀기
-
-
-05/22-05/28  0x03(배열) 강의 보기, 0x03 문제집 풀기
-
-
-05/29-06.20  자율 운영
-
-
-06/21-06/28  0x04(연결 리스트) 강의 보기, 0x04 문제집 풀기
+06/25-06/26  0x04(연결 리스트) 강의 보기, 0x04 문제집 기본문제 풀기
 
 ## 사용언어
+C : huiiiiseoooo
 
-C++ : GyuHo123,  HyeSunJeong, LeeJungHwi
+C++ : GyuHo123, HyeSunJeong, LeeJungHwi
 
-JAVA :jk9169, Guspect
+JAVA : jk9169, Guspect, Haneugyu
 
-Python : Haneugyu, Yonghan Jung, doDOHY25N, SungMin
-
+Python : Yonghan Jung, doDOHY25N, SungMin

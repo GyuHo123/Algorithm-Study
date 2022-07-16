@@ -19,6 +19,6 @@
 
 C++ : GyuHo123, HyeSunJeong, LeeJungHwi
 
-JAVA : jk9169, Guspect, Haneugyu
+JAVA : jk9169, Guspect
 
 Python : Yonghan Jung, doDOHY25N, SungMin

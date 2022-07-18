@@ -21,4 +21,4 @@ C++ : GyuHo123, HyeSunJeong, LeeJungHwi
 
 JAVA : jk9169, Guspect
 
-Python : Yonghan Jung, doDOHY25N, SungMin
+Python : Yonghan Jung, SungMin

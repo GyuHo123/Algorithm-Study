@@ -11,15 +11,11 @@
 
 감사합니다.
 
-## 일정
-
-06/25-06/26  0x04(연결 리스트) 강의 보기, 0x04 문제집 기본문제 풀기
 
 ## 사용언어
-C : huiiiiseoooo
 
 C++ : GyuHo123, HyeSunJeong, LeeJungHwi
 
-JAVA : jk9169, Guspect, Haneugyu
+JAVA : jk9169, Guspect
 
-Python : Yonghan Jung, doDOHY25N, SungMin
+Python : Yonghan Jung, SungMin
